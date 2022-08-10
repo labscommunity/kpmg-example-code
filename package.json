@@ -1,0 +1,13 @@
+{
+  "name": "kpmg-example-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/labscommunity/kpmg-example-code.git",
+  "author": "Not Community Labs Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "arweave": "^1.11.4",
+    "warp-contracts": "^1.1.14"
+  },
+  "type": "module"
+}

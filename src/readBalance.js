@@ -1,5 +1,5 @@
 import Arweave from "arweave";
-import Warp from 'warp-contracts';
+import Warp from "warp-contracts";
 
 const client = Arweave.init({
   host: 'arweave.net',
